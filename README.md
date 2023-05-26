@@ -14,15 +14,23 @@ The Simulation is analyzed by using a Snapshot Object to find the state of the s
 
 
 Variables:
-Processor #,
-Process #,
-Page #,
-Process Scheduler,
-Page Replacer,
+
+Processor #
+
+Process #
+
+Page #
+
+Process Scheduler
+
+Page Replacer
+
 Process RunTime
 
 
 Constants:
-Page Frame Size,
-Page Size,
+Page Frame Size
+
+Page Size
+
 Process/Page Content (Blank)
